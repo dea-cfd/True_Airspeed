@@ -81,8 +81,4 @@ The output is a dual-axis plot:
 
 ![A320 True Airspeed vs Altitude](a320_trueSpeed.png)
 
-## 🛠️ Notes
 
-- The descent speed is now realistic: TAS decreases with altitude during descent (not increases!).  
-- The model assumes no wind, no thrust variation, and ideal conditions (ISA).  
-- Ideal for educational, flight performance, or CFD pre-analysis.
